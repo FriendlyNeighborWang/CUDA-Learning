@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BLearning\\CUDA-Learning\\ThreadsCollaboration\\SharedMem_Map\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6327318F-939E-4BE6-BBBB-EC367246BBE7}|SharedMem_Map\\SharedMem_Map.vcxproj|D:\\C\u002B\u002BLearning\\CUDA-Learning\\ThreadsCollaboration\\SharedMem_Map\\SharedMem_Map\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6327318F-939E-4BE6-BBBB-EC367246BBE7}|SharedMem_Map\\SharedMem_Map.vcxproj|solutionrelative:SharedMem_Map\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\C\u002B\u002BLearning\\CUDA-Learning\\ThreadsCollaboration\\SharedMem_Map\\SharedMem_Map\\kernel.cu",
+              "RelativeDocumentMoniker": "SharedMem_Map\\kernel.cu",
+              "ToolTip": "D:\\C\u002B\u002BLearning\\CUDA-Learning\\ThreadsCollaboration\\SharedMem_Map\\SharedMem_Map\\kernel.cu",
+              "RelativeToolTip": "SharedMem_Map\\kernel.cu",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T07:21:17.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\C\u002B\u002BLearning\\CUDA-Learning\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C\u002B\u002BLearning\\CUDA-Learning\\HelloWorld\\HelloWorld\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HelloWorld\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{66A27ADE-B9E6-4805-82D2-0A19E72FD01A}|HelloWorld\\HelloWorld.vcxproj|D:\\C\u002B\u002BLearning\\CUDA-Learning\\HelloWorld\\HelloWorld\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66A27ADE-B9E6-4805-82D2-0A19E72FD01A}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,7 @@
               "RelativeDocumentMoniker": "HelloWorld\\kernel.cu",
               "ToolTip": "D:\\C\u002B\u002BLearning\\CUDA-Learning\\HelloWorld\\HelloWorld\\kernel.cu",
               "RelativeToolTip": "HelloWorld\\kernel.cu",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-=======
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowBEAAAABAAAA",
->>>>>>> d8bfb23709ceffca98054496d30187025559bbc7
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-30T08:49:59.008Z",
               "EditorCaption": ""
